@@ -23,13 +23,6 @@
 - 可复用的视觉工作流与 Agent Skills
 - AI 图像生成与人工设计协作方式
 
-## Poster Prompt Library / 海报提示词库
-
-已整理两套可直接复用的菜谱海报系统：
-
-- [S1 + F1｜复古绿调完整菜谱海报](./poster-prompts/s1-f1-recipe-poster.md)
-- [D1 + S7 + F12｜复古家常菜标签海报](./poster-prompts/d1-s7-f12-label-poster.md)
-
 ## How I Work / 我的工作方式
 
 - 从真实的创作摩擦开始，而不是从抽象功能开始。
